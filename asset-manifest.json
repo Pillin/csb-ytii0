@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pillin.github.io/csb-ytii0/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://pillin.github.io/csb-ytii0/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://pillin.github.io/csb-ytii0/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://pillin.github.io/csb-ytii0/static/js/runtime-main.d24f879a.js",
+    "runtime-main.js.map": "https://pillin.github.io/csb-ytii0/static/js/runtime-main.d24f879a.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://pillin.github.io/csb-ytii0/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://pillin.github.io/csb-ytii0/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://pillin.github.io/csb-ytii0/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://pillin.github.io/csb-ytii0/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://pillin.github.io/csb-ytii0/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d24f879a.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
